@@ -26,3 +26,12 @@ C:\Home\Work\情報工学実験II\C#プロジェクト\Client\Client\obj\Debug\C
 \\wfs01\Users\e1761misu\Desktop\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
 \\wfs01\Users\e1761misu\Desktop\Client\Client\obj\Debug\Client.exe
 \\wfs01\Users\e1761misu\Desktop\Client\Client\obj\Debug\Client.pdb
+C:\Users\shuhei-m_naist\AppData\Local\Packages\CanonicalGroupLimited.Ubuntu18.04onWindows_79rhkp1fndgsc\LocalState\rootfs\home\a2m5i\work\Client\Client\bin\Debug\Client.exe.config
+C:\Users\shuhei-m_naist\AppData\Local\Packages\CanonicalGroupLimited.Ubuntu18.04onWindows_79rhkp1fndgsc\LocalState\rootfs\home\a2m5i\work\Client\Client\bin\Debug\Client.exe
+C:\Users\shuhei-m_naist\AppData\Local\Packages\CanonicalGroupLimited.Ubuntu18.04onWindows_79rhkp1fndgsc\LocalState\rootfs\home\a2m5i\work\Client\Client\bin\Debug\Client.pdb
+C:\Users\shuhei-m_naist\AppData\Local\Packages\CanonicalGroupLimited.Ubuntu18.04onWindows_79rhkp1fndgsc\LocalState\rootfs\home\a2m5i\work\Client\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\shuhei-m_naist\AppData\Local\Packages\CanonicalGroupLimited.Ubuntu18.04onWindows_79rhkp1fndgsc\LocalState\rootfs\home\a2m5i\work\Client\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\shuhei-m_naist\AppData\Local\Packages\CanonicalGroupLimited.Ubuntu18.04onWindows_79rhkp1fndgsc\LocalState\rootfs\home\a2m5i\work\Client\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\shuhei-m_naist\AppData\Local\Packages\CanonicalGroupLimited.Ubuntu18.04onWindows_79rhkp1fndgsc\LocalState\rootfs\home\a2m5i\work\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\shuhei-m_naist\AppData\Local\Packages\CanonicalGroupLimited.Ubuntu18.04onWindows_79rhkp1fndgsc\LocalState\rootfs\home\a2m5i\work\Client\Client\obj\Debug\Client.exe
+C:\Users\shuhei-m_naist\AppData\Local\Packages\CanonicalGroupLimited.Ubuntu18.04onWindows_79rhkp1fndgsc\LocalState\rootfs\home\a2m5i\work\Client\Client\obj\Debug\Client.pdb

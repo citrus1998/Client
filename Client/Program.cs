@@ -141,8 +141,8 @@ namespace Client   // この行は変更禁止
         //.qa
         private void CnButton_Click(object sender, System.EventArgs e)
         {
-            ServerBox.Text += ".qa";
-            if (ServerBox.Text.Contains(".qa") == true)
+            ServerBox.Text += ".jp";
+            if (ServerBox.Text.Contains(".jp") == true)
             {
                 ComButton.Enabled = false;
                 QaButton.Enabled = false;
@@ -182,9 +182,9 @@ namespace Client   // この行は変更禁止
             ComButton.Enabled = true;
             Controls.Add(ComButton);
 
-            //.cnをつけるボタン
+            //.jpをつけるボタン
             QaButton = new System.Windows.Forms.Button();
-            QaButton.Text = ".qa";
+            QaButton.Text = ".jp";
             QaButton.Location = new System.Drawing.Point(310, 20);
             QaButton.Size = new System.Drawing.Size(40, 20);
             QaButton.Click += new System.EventHandler(CnButton_Click);
